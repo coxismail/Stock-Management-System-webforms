@@ -1,0 +1,24 @@
+D:\DotNet\Assignment\Stock Management Project\StockManagementApp\StockManagementApp\bin\StockManagementApp.dll.config
+D:\DotNet\Assignment\Stock Management Project\StockManagementApp\StockManagementApp\bin\StockManagementApp.dll
+D:\DotNet\Assignment\Stock Management Project\StockManagementApp\StockManagementApp\bin\StockManagementApp.pdb
+D:\DotNet\Assignment\Stock Management Project\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.dll
+D:\DotNet\Assignment\Stock Management Project\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.pdb
+E:\Ismail 216218\project\StockManagementApp\StockManagementApp\bin\StockManagementApp.dll.config
+E:\Ismail 216218\project\StockManagementApp\StockManagementApp\bin\StockManagementApp.dll
+E:\Ismail 216218\project\StockManagementApp\StockManagementApp\bin\StockManagementApp.pdb
+E:\Ismail 216218\project\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csprojResolveAssemblyReference.cache
+E:\Ismail 216218\project\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.dll
+E:\Ismail 216218\project\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.pdb
+D:\DotNet\Assignment\Stock Management Project\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csprojResolveAssemblyReference.cache
+E:\Project\StockManagementApp\StockManagementApp\bin\StockManagementApp.dll.config
+E:\Project\StockManagementApp\StockManagementApp\bin\StockManagementApp.dll
+E:\Project\StockManagementApp\StockManagementApp\bin\StockManagementApp.pdb
+E:\Project\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csprojResolveAssemblyReference.cache
+E:\Project\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.dll
+E:\Project\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.pdb
+E:\ASP DOT NET\Projects\StockManagementApp\StockManagementApp\bin\StockManagementApp.dll.config
+E:\ASP DOT NET\Projects\StockManagementApp\StockManagementApp\bin\StockManagementApp.dll
+E:\ASP DOT NET\Projects\StockManagementApp\StockManagementApp\bin\StockManagementApp.pdb
+E:\ASP DOT NET\Projects\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csprojResolveAssemblyReference.cache
+E:\ASP DOT NET\Projects\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.dll
+E:\ASP DOT NET\Projects\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.pdb

@@ -1,0 +1,131 @@
+﻿
+body {
+    margin: 0px;
+    padding: 0px;
+  background-color: black; 
+
+
+}
+a{
+    text-decoration: none;
+    text-decoration-line: none;
+}
+
+.project_header {
+    text-align: center;
+    color: blueviolet;
+    Padding: 30px;
+    color: #1c0582;
+    text-shadow: black;
+    margin: 0px 0px 10px 0px;
+}
+.direction {
+    text-align: center;
+}
+.sub_header {
+    padding: 10px 5px;
+    text-align: center;
+    color: blueviolet;
+    background-color: azure;
+}
+
+.main_area {
+    align-content: center;
+    border-bottom-color: aliceblue;
+    margin: 0px auto;
+    background-color: #e2efd7;
+    width: 82.5%;
+    height: 100%;
+    height: auto;
+    align-items: center;
+    padding-bottom: 30px;
+}
+.usertable {
+    margin: 0px auto;
+}
+
+
+.CompanyListGridVew {
+    margin: 10px auto;
+    padding: 5px;
+    width: 250px;
+}
+ .gridviewFull {
+            margin: 0px auto;
+            padding: 5px;
+            width: 100%;
+        }
+ .gridviewFull td {
+     text-align: center;
+     
+ }
+
+.searchByDateGridView {
+    margin: 10px auto;
+    padding: 5px;
+    width: 250px;
+}
+
+    .searchByDateGridView td {
+        text-align: center;
+    }
+
+#ctl02 {
+    margin-left: 20px;
+    color: red;
+}
+ #ctl05{
+    margin-left: 20px;
+    color: red;
+}
+
+#ctl07 {
+    margin-left: 20px;
+    color: red;
+}
+
+.dateTextBox {
+    cursor: not-allowed;
+}
+
+.right_clumn {
+    width: 250px;
+}
+
+.error {
+    color: red;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.footer_area {
+    height: 40px;
+    background-color: burlywood;
+    position: fixed;
+    clear: both;
+    bottom: 2px;
+    left: 5px;
+    right: 5px;
+}
+.footer_area p {
+    text-align: center;
+}
+.manu_button {
+    margin-left: 2px;
+}
+ .buttonArea {
+            clear: both;
+            background-color: aliceblue;
+            height: 30px;
+            text-align: right;
+            
+        }
+#backurlarea {
+    clear: both;
+    background-color: darkorchid;
+    height: 50px;
+    text-align: center;
+    padding-top: 20px;
+}
